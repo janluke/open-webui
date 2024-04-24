@@ -73,3 +73,6 @@ webui:
     nodePort: ""
     labels: {}
     loadBalancerClass: "" 
+  
+  # -- Extra environment variables: https://docs.openwebui.com/getting-started/env-configuration
+  extraEnv: {}
